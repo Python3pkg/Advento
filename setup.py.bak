@@ -9,7 +9,7 @@ setup(
     author='Vinicius Rodrigues',
     author_email='vinifladf@gmail.com',
     keywords='Fis Jogos',
-    description='Fisica para Jogoso FGA',
+    description=u'Fisica para Jogoso FGA',
     packages=['src'],
     install_requires=[],
 )

@@ -1,6 +1,6 @@
 from FGAme import *
-from .sfx import SFX
-from .enemy import *
+from sfx import SFX
+from enemy import *
 import os
 import pygame
 from pygame.locals import *

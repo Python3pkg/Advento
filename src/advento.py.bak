@@ -1,5 +1,5 @@
 from FGAme import *
-from .battlefield import *
+from battlefield import *
 
 battlefield = Battlefield()
 

@@ -1,9 +1,9 @@
-from . import advento
+import advento
 import pygame
 import time
 import random   
-from .battlefield import Battlefield
-from .text import text_objects
+from battlefield import Battlefield
+from text import text_objects
 
 pygame.init()
 display_width = 800
